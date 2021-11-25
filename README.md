@@ -1,2 +1,2 @@
 # SwiftUI-Africa-App
-Learning SwiftUI tutorial
+iOS 14, SwiftUI 2, Xcode 12.4
